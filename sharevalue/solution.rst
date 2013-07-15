@@ -5,7 +5,8 @@ Our assignment is to print the latest share value of a company whose NASDAQ symb
 Code
 ====
 ::
-        #!/usr/bin/env python
+      
+      #!/usr/bin/env python
 
         import urllib2 #<---------------------------------- the module is imported for opening url
 
