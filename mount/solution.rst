@@ -1,3 +1,5 @@
+mount
+=====
 Assignment is if we execute like $ ./mount.py 
 it should give the same output as mount command in the terminal by reading /proc/mounts file.
 
