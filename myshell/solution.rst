@@ -1,13 +1,12 @@
 Myshell
 =======
 
-Write a program that constitutes the following two commands:
+Assignment is to write a program that constitutes the following two commands:
 
 1)greet : which will say "Hi" to the user.
-
 2)stock : which will print the cureent stock value.
 
-#The above commands are to be executed using the requests library.
+//These comands are to be executed using the requests library.
 
 Code
 ====
